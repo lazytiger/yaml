@@ -1,4 +1,4 @@
-module github.com/lazytiger/yaml.v4
+module github.com/lazytiger/yaml
 
 go 1.17
 
